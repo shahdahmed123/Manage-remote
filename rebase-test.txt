@@ -1,0 +1,1 @@
+try rebase command to combine all commits to feature branch
