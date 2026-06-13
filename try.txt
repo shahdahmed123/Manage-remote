@@ -1,2 +1,3 @@
 fetch vs pull command
 shahd ahmed 
+A > B > C > FETCH + MERGE = PULL
